@@ -5,6 +5,12 @@
 * Maven 3.2.x
 * JDK 1.8+
 
+12
+123
+312
+123
+123312
+
 ### Regular build
 
     mvn clean install
